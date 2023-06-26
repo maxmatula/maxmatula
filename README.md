@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxmatula
 - 👀 I’m interested in programming and electronics
-- 🌱 I’m currently learning PCB desing, IoT and React
+- 🌱 I’m currently learning PCB design, IoT and Next.js
 
 <!---
 maxmatula/maxmatula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
