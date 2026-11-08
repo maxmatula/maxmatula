@@ -1,30 +1,23 @@
-
 # Maksymilian Matuła
 
-**INDEPENDENT THINKING // INTENTIONAL ENGINEERING**
+`independent engineering // software · electronics · human–machine interfaces`
 
-*Somewhere between science fiction and engineering reality.*
+I take ideas from science fiction and test them against reality. Build it, measure it, keep what holds up.
 
-I'm a technology enthusiast, independent experimenter, and someone who believes the most interesting ideas often begin with a simple question:
+### Focus
 
-**What if?**
+- **Software & systems.** Tools and environments built around operator control.
+- **Embedded & electronics.** Where code meets hardware.
+- **Human–machine interfaces.** From input devices to the long road toward brain–computer interfaces.
+- **AI.** Practical, accountable and under human control.
+- **Cybernetics & new devices.** Things that exist in fiction and not yet on a workbench.
 
-My interests span software, embedded systems, electronics, unconventional interfaces, and emerging technologies. I'm particularly drawn to the intersection of hardware, code, and the possibilities of tomorrow.
+### Principles
 
-I believe in original ideas, continuous experimentation, and challenging conventional limitations. Not everything needs to follow an established path. Sometimes the best way forward is to build your own.
-
-### // CORE PHILOSOPHY
-
-**QUESTION THE OBVIOUS.**  
-**EXPLORE THE UNKNOWN.**  
-**ENGINEER WHAT'S NEXT.**
-
-I value curiosity over convention, substance over hype, and real experimentation over empty promises.
-
-Some ideas become code. Others become hardware. All of them begin with curiosity.
+Evidence over claims.
+Own the system.
+Nothing by accident.
 
 ---
 
-`SYSTEM STATUS: EXPLORING THE POSSIBLE`
-
-*The future isn't something we wait for. It's something we work toward.*
+`> status: work in progress stays private until it works.`
